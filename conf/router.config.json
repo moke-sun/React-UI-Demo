@@ -1,0 +1,10 @@
+
+[
+
+  {"path":"/","file":"./routes/index"},
+  {"path":"/api","file":"./routes/api"}
+
+]
+
+
+
